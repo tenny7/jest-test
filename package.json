@@ -1,0 +1,14 @@
+{
+  "name": "jstest",
+  "version": "1.0.0",
+  "description": "for testing js",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
