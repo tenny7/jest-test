@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "nigerian Pizza",
+        "image": "/image/nigerian.jpg",
+        "desc": "this is a dummy description of a nigerian Jungle Pizza",
+        "price": 8
+    },
+    {
+        "id": 2,
+        "name": "nerican Pizza",
+        "image": "/image/american.jpg",
+        "desc": "this is a dummy description of a american Jungle Pizza",
+        "price": 9
+    },
+    {
+        "id": 2,
+        "name": "Anerican Pizza",
+        "image": "/image/american.jpg",
+        "desc": "this is a dummy description of a american Jungle Pizza",
+        "price": 9
+    },
+    {
+        "id": 2,
+        "name": "bigerian Pizza",
+        "image": "/image/american.jpg",
+        "desc": "this is a dummy description of a american Jungle Pizza",
+        "price": 9
+    },
+    {
+        "id": 2,
+        "name": "cigerian Pizza",
+        "image": "/image/american.jpg",
+        "desc": "this is a dummy description of a american Jungle Pizza",
+        "price": 9
+    }  
+]

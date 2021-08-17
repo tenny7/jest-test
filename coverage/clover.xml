@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1629156976514" clover="3.2.0">
-  <project timestamp="1629156976515" name="All files">
+<coverage generated="1629243376902" clover="3.2.0">
+  <project timestamp="1629243376903" name="All files">
     <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="8" coveredelements="8" complexity="0" loc="6" ncloc="6" packages="1" files="2" classes="2"/>
     <file name="cloneArray.js" path="C:\Users\Ovie\node_projects\js\cloneArray.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>

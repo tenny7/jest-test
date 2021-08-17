@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test pizza records 1`] = `
+Array [
+  Object {
+    "desc": "this is a dummy description of a nigerian Jungle Pizza",
+    "id": 1,
+    "image": "/image/nigerian.jpg",
+    "name": "nigerian Pizza",
+    "price": 8,
+  },
+  Object {
+    "desc": "this is a dummy description of a american Jungle Pizza",
+    "id": 2,
+    "image": "/image/american.jpg",
+    "name": "nerican Pizza",
+    "price": 9,
+  },
+  Object {
+    "desc": "this is a dummy description of a american Jungle Pizza",
+    "id": 2,
+    "image": "/image/american.jpg",
+    "name": "Anerican Pizza",
+    "price": 9,
+  },
+  Object {
+    "desc": "this is a dummy description of a american Jungle Pizza",
+    "id": 2,
+    "image": "/image/american.jpg",
+    "name": "bigerian Pizza",
+    "price": 9,
+  },
+  Object {
+    "desc": "this is a dummy description of a american Jungle Pizza",
+    "id": 2,
+    "image": "/image/american.jpg",
+    "name": "cigerian Pizza",
+    "price": 9,
+  },
+]
+`;
